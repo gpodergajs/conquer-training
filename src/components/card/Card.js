@@ -9,7 +9,7 @@ class Card extends Component {
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">Quick sample text to create the card title and make up the body of the card's content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                    <a href="#" class="btn btn-primary text-center">Go somewhere</a>
                 </div>
             </div>
         );

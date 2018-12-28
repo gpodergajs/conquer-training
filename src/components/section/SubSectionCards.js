@@ -9,8 +9,6 @@ class SubSectionCards extends Component {
 
     }
 
-
-
     render() {
         return (
             <React.Fragment>

@@ -6,7 +6,7 @@ import Body from '../components/home/Body';
 class Home extends Component {
     render() {
         return (
-            <div className="container-responsive">
+            <div className="row">
                <Body/>
             </div>
         );
